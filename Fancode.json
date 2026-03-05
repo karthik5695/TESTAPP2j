@@ -1,10 +1,5 @@
 [
   {
-    "logo": "https://images.fancode.com/aig/match/v1/140596_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "New Zealand Women Vs Zimbabwe Women",
-    "link": "https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8"
-  },
-  {
     "logo": "https://images.fancode.com/aig/match/v1/140884_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Hong Kong, China Vs Kuwait",
     "link": "https://in-mc-flive.fancode.com/mumbai/140884_english_hls_31ff5afa7242040_1ta-di_h264/index.m3u8"
@@ -23,11 +18,6 @@
     "logo": "https://images.fancode.com/aig/match/v1/134038_CASACARDS_PARTNER_16_9_1920_1080.png",
     "name": "Queensland Vs Western Australia",
     "link": "https://in-mc-flive.fancode.com/mumbai/134038_english_hls_7fd497bc3670906_1ta-di_h264/index.m3u8"
-  },
-  {
-    "logo": "https://images.fancode.com/aig/match/v1/140800_CASACARDS_PARTNER_16_9_1920_1080.png",
-    "name": "Philippines Women Vs Korea Republic Women",
-    "link": "https://in-mc-flive.fancode.com/mumbai/140800_english_hls_5b02b4227249185_1ta-di_h264/index.m3u8"
   },
   {
     "logo": "https://images.fancode.com/aig/match/v1/141005_CASACARDS_PARTNER_16_9_1920_1080.png",
